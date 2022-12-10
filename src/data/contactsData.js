@@ -1,7 +1,7 @@
 export const contactsData = {
-    email: 'webdeveshverma@gmail.com',
-    phone: '+91 7060596109',
-    address: 'Shastri Nagar Ghaziabad',
+    email: 'kamrul7.khan@gmail.com',
+    phone: '+8801629706873',
+    address: 'Gazipur,Dhaka,Bangladesh',
 
-    sheetAPI: 'https://sheetdb.io/api/v1/tt5b8x0x5sbmo'
+
 }

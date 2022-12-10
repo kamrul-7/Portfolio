@@ -9,35 +9,35 @@ import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
-    
+
     {
         id: 2,
-        projectName: 'MARRIOTT BONOY CLONE',
-        projectDesc: 'It is a web application to book hotels.',
-        tags: ['HTML', 'CSS', 'JavaScript'],
-        code: 'https://github.com/webdeveshverma/Marriott_Bonvoy_clone.github.io',
-        demo: 'https://personal-iota-flame.vercel.app/',
-        image: 'https://i.ibb.co/HrWfTyr/Marriott.png'
+        projectName: 'Second Hand Phone Buy and Sell',
+        projectDesc: 'It is a web application to second hand products buy and sell.',
+        tags: ['HTML', 'CSS', 'JavaScript,RACT', 'REDUX', 'MONGODB', 'JSX', 'EXPRESS', 'MONGOOSE'],
+        code: 'https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-kamrul-7',
+        demo: 'https://phonemax-a089c.web.app/',
+        image: 'https://c8.alamy.com/comp/JHAB29/buying-and-selling-concept-illustration-with-hands-on-mobile-phones-JHAB29.jpg'
     },
     {
         id: 3,
-        projectName: 'Agoda Clone',
-        projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
-        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
-        code: 'https://github.com/shailendra7518/Agoda-clone',
-        demo: 'https://agoda-clone.vercel.app/',
-        image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
+        projectName: 'E-learning Platform',
+        projectDesc: 'Digital E-learning platform for all type of students.',
+        tags: ['RACT', 'REDUX', 'MONGODB', 'JSX', 'EXPRESS', 'MONGOOSE'],
+        code: 'https://github.com/programming-hero-web-course1/b610-learning-platform-client-side-kamrul-7',
+        demo: 'https://programmable-2af43.web.app/',
+        image: 'https://img.freepik.com/premium-photo/business-man-holding-phone-e-learning-icon_218381-5165.jpg?w=2000'
     },
     {
         id: 4,
-        projectName: 'Weather App',
-        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
-        tags: ['Openweather API', 'JavaScript', 'HTML', 'CSS'],
-        code: 'https://github.com/webdeveshverma/Check-Weather-Appliction-',
-        demo: 'https://webdeveshverma.github.io/Check-Weather-Appliction-/',
-        image: 'https://i.ibb.co/C9hZWVN/Weather-app.png'
+        projectName: 'Service website',
+        projectDesc: 'All Type of Plumbing service website',
+        tags: ['Openweather API', 'JavaScript', 'React', 'HTML', 'CSS'],
+        code: 'https://github.com/Porgramming-Hero-web-course/b6a11-service-review-client-side-kamrul-7',
+        demo: 'https://plamboy-38636.web.app/',
+        image: 'https://www.build-review.com/wp-content/uploads/2021/03/Plumbing.jpg'
     },
-   
+
 ]
 
 
